@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/orvm/META" {"META"}
+  "_build/install/default/lib/orvm/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/orvm" {"orvm"}
+]
+doc: [
+  "_build/install/default/doc/orvm/README.md"
+  "_build/install/default/doc/orvm/LICENSE"
+]

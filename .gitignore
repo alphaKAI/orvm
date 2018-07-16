@@ -1,10 +1,7 @@
-OMakefile.omc
-OMakeroot.omc
-.omakedb
-.omakedb.lock
 vm
 vm.opt
 *.cm*
 *.o
 .*.sw*
 .*.*.sw*
+_build

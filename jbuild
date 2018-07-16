@@ -1,0 +1,7 @@
+(jbuild_version 1)
+(executable
+  ((name vm)
+   (public_name orvm)
+   (preprocess (pps (ppx_deriving.show)))
+   (libraries (core))
+   ))

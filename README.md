@@ -7,7 +7,7 @@ Toy register machine based virtual machine in OCaml.
 ```zsh
 $ git clone https://github.com/alphaKAI/orvm
 $ cd orvm
-$ omake
+$ jbuilder build
 ```
 
 ## Requirements
